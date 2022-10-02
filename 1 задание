@@ -11,7 +11,7 @@ s1=an
 s2=ne
 print(s1+s2)
 
-print('ann'*3)
+print('ah'*3)
 
 print(len('ann'))
 
