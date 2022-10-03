@@ -11,9 +11,14 @@ s1=an
 s2=ne
 print(s1+s2)
 
-print('ah'*3)
+print('ann'*3)
 
 print(len('ann'))
 
 s=anne
 print(s[0])
+
+m = []
+print(m.append(1))
+
+m.append(2,3)
